@@ -1,0 +1,42 @@
+/* pedrordjohdjkosfisnjebfsnfsefs*/ 
+{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Verdana;
+  background-color: #002545;
+  color: #ABCDEF;
+}
+
+h1 {
+  text-align: center;
+  margin: 80px 0 20px 0;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 80px;
+  color: white;
+}
+
+/* subtitulo */
+legend {
+  font-size: 1.7em;
+  padding: 0 7px;
+}
+
+fieldset {
+  width: 350px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px 30px;
+}
+
+#reloj {
+  font-size: 6em;
+  color: #00FF99;
+}
